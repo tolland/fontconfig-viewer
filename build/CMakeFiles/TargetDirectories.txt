@@ -1,0 +1,3 @@
+/home/tomhodder/Sync/projects/gtk/fontconfig_viewer/build/CMakeFiles/fontconfig_viewer.dir
+/home/tomhodder/Sync/projects/gtk/fontconfig_viewer/build/CMakeFiles/edit_cache.dir
+/home/tomhodder/Sync/projects/gtk/fontconfig_viewer/build/CMakeFiles/rebuild_cache.dir
